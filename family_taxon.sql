@@ -1,0 +1,17 @@
+INSERT INTO family_taxon (family, life_form, class) VALUES
+('Fabaceae', 'кустарник', 'Magnoliopsida'),
+('Asteraceae', 'трава', 'Magnoliopsida'),
+('Rosaceae', 'дерево', 'Magnoliopsida'),
+('Apiaceae', 'трава', 'Magnoliopsida'),
+('Lamiaceae', 'трава', 'Magnoliopsida'),
+('Ericaciae', 'кустарничек', 'Magnoliopsida'),
+('Menyanthaceae', 'трава', 'Magnoliopsida'),
+('Balsaminaceae', 'трава', 'Magnoliopsida'),
+('Rubiaceae', 'трава', 'Magnoliopsida'),
+('Saxifragaceae', 'трава', 'Magnoliopsida'),
+('Crassulaceae', 'трава', 'Magnoliopsida'),
+('Ranunculaceae', 'трава', 'Magnoliopsida'),
+('Primulaceae', 'трава', 'Magnoliopsida'),
+('Caryophyllaceae', 'трава', 'Magnoliopsida'),
+('Poaceae', 'трава', 'Liliopsida'),
+('Liliaceae', 'трава', 'Liliopsida');

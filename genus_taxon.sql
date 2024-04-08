@@ -1,0 +1,16 @@
+INSERT INTO genus_taxon (genus, fruit, family) VALUES
+('Stipa', 'зерновка', 'Poaceae'),
+('Potentilla', 'семянка', 'Rosaceae'),
+('Rhodiola', 'листовка', 'Crassulaceae'),
+('Astragalus', 'боб', 'Fabaceae'),
+('Nymphoides', 'коробочка', 'Menyanthaceae'),
+('Asperula', 'орешек', 'Rubiaceae'),
+('Sanicula', 'вислоплодник', 'Apiaceae'),
+('Anemone', 'многоорешек', 'Ranunculaceae'),
+('Pulsatilla', 'многоорешек', 'Ranunculaceae'),
+('Androsace', 'коробочка', 'Primulaceae'),
+('Oxytropus', 'боб', 'Fabaceae'),
+('Centaurea', 'семянка', 'Asteraceae'),
+('Calluna', 'коробочка', 'Ericaceae'),
+('Glycyrrhiza', 'боб', 'Fabaceae'),
+('Gypsophila', 'коробочка', 'Caryophyllaceae');

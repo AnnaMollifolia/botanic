@@ -1,0 +1,17 @@
+INSERT INTO rus_family_taxon (family, rus_family) VALUES
+('Fabaceae', 'Бобовые'),
+('Asteraceae', 'Сложноцветные'),
+('Rosaceae', 'Розоцветные'),
+('Apiaceae', 'Зонтичные'),
+('Lamiaceae', 'Губоцветные'),
+('Ericaciae', 'Вересковые'),
+('Menyanthaceae', 'Вахтовые'),
+('Balsaminaceae', 'Недотроговые'),
+('Rubiaceae', 'Мареновые'),
+('Saxifragaceae', 'Камнеломковые'),
+('Crassulaceae', 'Толстянковые'),
+('Ranunculaceae', 'Лютиковые'),
+('Primulaceae', 'Первоцветные'),
+('Caryophyllaceae', 'Гвоздичные'),
+('Poaceae', 'Злаки'),
+('Liliaceae', 'Лилейные');

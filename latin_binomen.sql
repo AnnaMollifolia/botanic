@@ -1,0 +1,17 @@
+INSERT INTO latin_binomen (genus, species, short_name) VALUES
+('Stipa',  'pennata', 'S. pennata'),
+('Potentilla', 'recta', 'P. recta'),
+('Rhodiola', 'rosea', 'R. rosea'),
+('Astragalus', 'permiensis', 'A. permiensis'),
+('Nymphoides', 'supina', 'N. supina'),
+('Asperula', 'petreaea', 'A. petreaea'),
+('Sanicula', 'uralensis', 'S. uralensis'),
+('Anemone', 'uralensis', 'A. uralensis'),
+('Pulsatilla', 'ambigua', 'P. ambigua'),
+('Androsace', 'maxima', 'A. maxima'),
+('Oxytropus', 'uralensis', 'O. uralensis'),
+('Anemone', 'dichotoma', 'A. dichotoma'),
+('Centaurea', 'integrifolia', 'C. integrifolia'),
+('Rhodiola', 'quadrifida', 'R. quadrifida'),
+('Calluna', 'vulgaris', 'C. vulgaris'),
+('Gypsophila', 'uralensis', 'G. uralensis');

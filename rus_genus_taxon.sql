@@ -1,0 +1,16 @@
+INSERT INTO rus_genus_taxon (genus, rus_genus) VALUES
+('Stipa',  'Ковыль'),
+('Potentilla', 'Лапчатка'),
+('Rhodiola', 'Родиола'),
+('Astragalus', 'Астрагал'),
+('Nymphoides', 'Болоцветник'),
+('Asperula', 'Ясменник'),
+('Sanicula', 'Подлесник'),
+('Anemone', 'Ветреница'),
+('Pulsatilla', 'Прострел'),
+('Androsace', 'Проломник'),
+('Oxytropus', 'Остролодочнк'),
+('Centaurea', 'Василёк'),
+('Calluna', 'Вереск'),
+('Glycyrrhiza', 'Солодка'),
+('Gypsophila', 'Качим');

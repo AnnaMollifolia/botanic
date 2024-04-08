@@ -1,0 +1,16 @@
+INSERT INTO red_list (genus, species, status) VALUES
+('Stipa',  'pennata', 'in'),
+('Potentilla', 'recta', 'in'),
+('Rhodiola', 'rosea', 'in'),
+('Astragalus', 'permiensis', 'in'),
+('Nymphoides', 'supina', 'in'),
+('Asperula', 'petreaea', 'in'),
+('Sanicula', 'uralensis', 'in'),
+('Anemone', 'uralensis', 'in'),
+('Pulsatilla', 'ambigua', 'died'),
+('Androsace', 'maxima', 'died'),
+('Oxytropus', 'uralensis', 'out'),
+('Anemone', 'dichotoma', 'out'),
+('Rhodiola', 'quadrifida', 'attention'),
+('Centaurea', 'integrifolia', 'attention'),
+('Calluna', 'vulgaris', 'attention');
